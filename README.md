@@ -37,10 +37,11 @@
 
 <h2 align="center">MySQL.</h2>
 
+* [MySQL基础](https://github.com/Walhalla-Summary/SQL/blob/master/MySQL/MySQL%E6%80%BB%E7%BB%93.md)
+* [MySQL详解](https://github.com/Walhalla-Summary/SQL/blob/master/MySQL/MySQL%E7%B2%BE%E7%AE%80%E6%80%BB%E7%BB%93.md)
+* [MySQL总结](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/Hadoop%E6%A0%B8%E5%BF%83%E7%B2%BE%E8%AE%B2.md)
+* [MySQL优化](https://github.com/Walhalla-Summary/SQL/blob/master/MySQL/MySQL%E4%BC%98%E5%8C%96.md)
 
-
-* [HDFS核心解析](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/HDFS%E6%A0%B8%E5%BF%83%E7%B2%BE%E8%AE%B2.md)
-* [Hadoop面试总结](https://github.com/Walhalla-Summary/BigData/blob/master/Hadoop/Hadoop%E6%A0%B8%E5%BF%83%E7%B2%BE%E8%AE%B2.md)
 
 <h2 align="center">Oracle.</h2>
 
